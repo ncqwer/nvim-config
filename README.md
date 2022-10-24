@@ -8,9 +8,14 @@
 Install this first
   - [ neovim(v0.7+) ](https://neovim.io/)
   - [ packer ](https://github.com/wbthomason/packer.nvim)
+  - [ lsp for ts](https://github.com/typescript-language-server/typescript-language-server)
   - riggrep
 
 ```bash
 git clone --depth 1 https://github.com/ncqwer/nvim-config.git ~/.config/nvim
 ```
+
+## ScreenShot
+
+![screenshot](./covers/base.png)
 
